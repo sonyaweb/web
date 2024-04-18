@@ -1,0 +1,56 @@
+html, body {
+height:700px;
+margin:0;
+padding:0;
+background-color:#cbc1f5;
+}
+
+h2{
+	text-align:center;
+}
+
+
+.whole{
+height:100%;
+display: flex;
+background-color:#6f6599;
+}
+
+
+
+.navigation{
+padding: 1%; 
+width: 15%;
+border: 10px solid #6f6599;	
+background-color:#cbc1f5;
+
+}	
+.main{
+width: 85%;
+
+}	
+
+.container {
+height:100%;
+background-color:#cbc1f5;
+display: flex;
+font-size: 18px;
+}	
+
+.column {
+padding: 1%;
+
+border: 10px solid #6f6599;
+
+}
+
+.left {
+width: 50%;
+}
+.right {
+width: 50%;
+}
+.center {
+width: 100%;
+
+}
